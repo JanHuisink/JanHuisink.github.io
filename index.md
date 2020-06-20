@@ -11,3 +11,6 @@ John Wick is the fictional title character and main protagonist of the John Wick
 * determined
 * trustworthy
 * confident
+
+## Quotes
+> GUNS. LOTS OF GUNS.
