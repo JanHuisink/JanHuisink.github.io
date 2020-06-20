@@ -14,3 +14,6 @@ John Wick is the fictional title character and main protagonist of the John Wick
 
 ## Quotes
 > GUNS. LOTS OF GUNS.
+
+## Image
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9f/John_Wick_Keanu.jpeg">
